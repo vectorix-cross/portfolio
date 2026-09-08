@@ -6,7 +6,7 @@
 
 Prediction-market automation, crypto trading systems, and token-launch infrastructure. Vectorix (`vectorix-cross`) — Vanja Sretenovic.
 
-Work covers **Polymarket trading bots**, **betting / market desks**, **Solana token launch and memecoin pools**, **cross-chain DeFi**, and **on-chain marketplaces** — from CLOB microstructure through execution and risk caps.
+Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump.fun-style token launch**, **Solana DEX arbitrage**, and **cross-chain vaults**. Public clones are paper-first or architecture; production wallets, launchpads, and custom strategies go through contact.
 
 <p align="center">
   <a href="https://vectorix-cross.github.io/portfolio/">
@@ -73,7 +73,59 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">05. CrossYield</h3>
+<h3 align="center">05. Pump.fun smart contract</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-contract">
+    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun Solana smart contract" />
+  </a>
+</div>
+<p align="center">Bonding-curve launchpad program: virtual LP, swap, fee split, vesting, and Raydium AMM/CPMM migrate. Devnet txs on Solscan.</p>
+<p align="center"><strong>Portfolio category:</strong> Token launch / Solana program</p>
+<p align="center"><code>Rust</code> <code>Anchor</code> <code>Pump.fun</code> <code>Raydium</code></p>
+<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">06. Pump.fun frontend</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-frontend">
+    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Pump.fun launchpad frontend" />
+  </a>
+</div>
+<p align="center">Launch UI: wallet connect, IPFS metadata, create-coin, swap, TradingView chart, holders, and chat.</p>
+<p align="center"><strong>Portfolio category:</strong> Token launch / Full-stack Web3</p>
+<p align="center"><code>Next.js</code> <code>Solana</code> <code>Wallet adapter</code> <code>Charts</code></p>
+<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">07. Pump.fun backend</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-backend">
+    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun launchpad backend" />
+  </a>
+</div>
+<p align="center">Indexer and API: program events, coin routes, chart candles, auth, sockets, Raydium pool create.</p>
+<p align="center"><strong>Portfolio category:</strong> Backend / Token launch</p>
+<p align="center"><code>TypeScript</code> <code>Sockets</code> <code>Indexer</code> <code>Mongo</code></p>
+<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">08. Solana arbitrage bot</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#solana-arbitrage">
+    <img src="./portfolio/solana-arbitrage.png" width="100%" height="400" alt="Solana DEX arbitrage bot" />
+  </a>
+</div>
+<p align="center">Rust off-chain scanner plus on-chain swap program. Sizes the route across Serum, Orca, Saber, Aldrin, Mercurial.</p>
+<p align="center"><strong>Portfolio category:</strong> Crypto trading bot / DeFi</p>
+<p align="center"><code>Rust</code> <code>Solana</code> <code>Arbitrage</code> <code>AMM</code></p>
+<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">09. CrossYield</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#crossyield">
     <img src="./portfolio/crossyield.png" width="100%" height="400" alt="CrossYield RWA vault" />
@@ -85,97 +137,52 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 <p align="center"><a href="https://github.com/vectorix-cross/CrossYield">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">06. Web3 project catalog</h3>
+<h3 align="center">10. Solana presale</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#solana-presale">
+    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Solana presale smart contract" />
+  </a>
+</div>
+<p align="center">Anchor presale: sale windows, allocation tickets, price config, claim path for SPL tokens.</p>
+<p align="center"><strong>Portfolio category:</strong> Token sale / Smart contract</p>
+<p align="center"><code>Rust</code> <code>Anchor</code> <code>Presale</code> <code>SPL</code></p>
+<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">11. Web3 project catalog</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#web3-catalog">
     <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Web3 project catalog" />
   </a>
 </div>
-<p align="center">Public map of Solana trading bots, Pump.fun launchpads, memecoin pools, and on-chain automation.</p>
+<p align="center">Public map of Solana bots, launchpads, vesting, NFT staking, and on-chain automation. Message for proof of work.</p>
 <p align="center"><strong>Portfolio category:</strong> Web3 catalog / Token launch</p>
 <p align="center"><code>Solana</code> <code>Pump.fun</code> <code>Raydium</code> <code>Token launch</code></p>
 <p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<h3 align="center">07. Solana arbitrage bot</h3>
+<h3 align="center">12. Solana NFT staking</h3>
 <div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#solana-arbitrage">
-    <img src="./portfolio/solana-arbitrage.png" width="100%" height="400" alt="Solana DEX arbitrage bot" />
+  <a href="https://vectorix-cross.github.io/portfolio/#solana-nft-staking">
+    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Solana NFT staking" />
   </a>
 </div>
-<p align="center">DEX route scan on Solana: size the path, estimate fill, execute while the pool still quotes.</p>
-<p align="center"><strong>Portfolio category:</strong> Crypto trading bot / DeFi</p>
-<p align="center"><code>Rust</code> <code>Solana</code> <code>Arbitrage</code> <code>AMM</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/Solana-arbitrage-bot">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">08. Solana token launchpad</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#solana-launchpad">
-    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Solana token launchpad" />
-  </a>
-</div>
-<p align="center">Token launchpad: pool bootstrap, UI, and program integration for Solana mints.</p>
-<p align="center"><strong>Portfolio category:</strong> Token launch / Full-stack Web3</p>
-<p align="center"><code>TypeScript</code> <code>Solana</code> <code>Launchpad</code> <code>Pools</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/solana-token-launchpad">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">09. Marketplace backend</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#marketplace-backend">
-    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="NFT marketplace backend" />
-  </a>
-</div>
-<p align="center">Marketplace API: listings, orders, collections, and on-chain settlement hooks.</p>
-<p align="center"><strong>Portfolio category:</strong> Backend / NFT marketplace</p>
-<p align="center"><code>TypeScript</code> <code>API</code> <code>Indexer</code> <code>Orders</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/Marketplace_Backend">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">10. NFT marketplace (ETH)</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#nft-marketplace-eth">
-    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Ethereum NFT marketplace" />
-  </a>
-</div>
-<p align="center">Ethereum NFT marketplace: listings, bids, and settlement contracts.</p>
-<p align="center"><strong>Portfolio category:</strong> Solidity / NFT</p>
-<p align="center"><code>Solidity</code> <code>Ethereum</code> <code>NFT</code> <code>Marketplace</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/NFT-Marketplace-ETH">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">11. Coinbase x402</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#coinbase-x402">
-    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Coinbase x402 payments" />
-  </a>
-</div>
-<p align="center">HTTP 402 micropayments: challenge, payment, and access grant on the Coinbase x402 path.</p>
-<p align="center"><strong>Portfolio category:</strong> Payments / Web3 APIs</p>
-<p align="center"><code>JavaScript</code> <code>x402</code> <code>Payments</code> <code>HTTP 402</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/Coinbase-x402">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">12. Node blockchain</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#node-blockchain">
-    <img src="./portfolio/node-blockchain.png" width="100%" height="400" alt="TypeScript educational blockchain" />
-  </a>
-</div>
-<p align="center">Educational TypeScript chain: RSA-signed transfers, Merkle roots, configurable PoW, CLI, and tests.</p>
-<p align="center"><strong>Portfolio category:</strong> Blockchain fundamentals / TypeScript</p>
-<p align="center"><code>TypeScript</code> <code>PoW</code> <code>Merkle</code> <code>Wallets</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/node-blockchain">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center">Stake NFT, pNFT, and cNFT collections: lock, emit rewards, unstake. Built for collection launches that need a farm.</p>
+<p align="center"><strong>Portfolio category:</strong> NFT / Solana program</p>
+<p align="center"><code>Rust</code> <code>Solana</code> <code>NFT</code> <code>Staking</code></p>
+<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <strong>Want a bot on a wallet, a launchpad, or a custom desk?</strong>
+  <a href="mailto:vanjasretenovic4@gmail.com">Email</a>
+  ·
+  <a href="https://t.me/vectoris_corss">Telegram</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/vectorix-cross">← Back to Profile</a>

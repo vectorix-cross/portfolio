@@ -4,7 +4,7 @@
     "name": "01. Polymarket trading bot",
     "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
     "cta": "View GitHub Repo",
-    "description": "CLOB bot plus strategy boards, snipers, and market-making — one repo.",
+    "description": "CLOB bot, strategy boards, snipers, and market-making — public paper cut.",
     "images": [
       "covers/bot-hero.png",
       "projects/bot/dashboard.png",
@@ -62,19 +62,59 @@
     ]
   },
   {
+    "slug": "pumpfun-contract",
+    "name": "05. Pump.fun smart contract",
+    "url": "https://t.me/vectoris_corss",
+    "cta": "Request Demo",
+    "description": "Bonding curve, virtual LP, fees, vesting, Raydium migrate.",
+    "images": ["projects/web3/pump.png", "covers/web3-hero.png"]
+  },
+  {
+    "slug": "pumpfun-frontend",
+    "name": "06. Pump.fun frontend",
+    "url": "https://t.me/vectoris_corss",
+    "cta": "Request Demo",
+    "description": "Wallet, IPFS, create-coin, swap, TradingView, holders.",
+    "images": ["covers/web3-hero.png", "projects/web3/pump.png"]
+  },
+  {
+    "slug": "pumpfun-backend",
+    "name": "07. Pump.fun backend",
+    "url": "https://t.me/vectoris_corss",
+    "cta": "Request Demo",
+    "description": "Events, coin API, charts, auth, sockets, Raydium pool create.",
+    "images": ["projects/web3/pump.png"]
+  },
+  {
+    "slug": "solana-arbitrage",
+    "name": "08. Solana arbitrage bot",
+    "url": "https://t.me/vectoris_corss",
+    "cta": "Request Demo",
+    "description": "Route scan and on-chain swap across Solana AMM pools.",
+    "images": ["projects/web3/bots.png"]
+  },
+  {
     "slug": "crossyield",
-    "name": "05. CrossYield",
+    "name": "09. CrossYield",
     "url": "https://github.com/vectorix-cross/CrossYield",
     "cta": "View GitHub Repo",
-    "description": "Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.",
+    "description": "Ethereum deposit, Wormhole VAA, Solana vault shares, harvest.",
     "images": ["covers/web3-hero.png"]
   },
   {
+    "slug": "solana-presale",
+    "name": "10. Solana presale",
+    "url": "https://t.me/vectoris_corss",
+    "cta": "Request Demo",
+    "description": "Sale windows, allocation tickets, SPL claim path.",
+    "images": ["projects/web3/pump.png"]
+  },
+  {
     "slug": "web3-catalog",
-    "name": "06. Web3 project catalog",
+    "name": "11. Web3 project catalog",
     "url": "https://github.com/vectorix-cross/My-web3-projects",
     "cta": "View GitHub Repo",
-    "description": "Public map of Solana bots, launchpads, and on-chain automation.",
+    "description": "Public map of bots, launchpads, and on-chain automation.",
     "images": [
       "covers/web3-hero.png",
       "projects/web3/bots.png",
@@ -83,51 +123,11 @@
     ]
   },
   {
-    "slug": "solana-arbitrage",
-    "name": "07. Solana arbitrage bot",
-    "url": "https://github.com/vectorix-cross/Solana-arbitrage-bot",
-    "cta": "View GitHub Repo",
-    "description": "DEX route scan and fill logic across Solana AMM pools.",
-    "images": ["projects/web3/bots.png"]
-  },
-  {
-    "slug": "solana-launchpad",
-    "name": "08. Solana token launchpad",
-    "url": "https://github.com/vectorix-cross/solana-token-launchpad",
-    "cta": "View GitHub Repo",
-    "description": "Pool bootstrap, launch UI, and program integration.",
-    "images": ["projects/web3/pump.png"]
-  },
-  {
-    "slug": "marketplace-backend",
-    "name": "09. Marketplace backend",
-    "url": "https://github.com/vectorix-cross/Marketplace_Backend",
-    "cta": "View GitHub Repo",
-    "description": "Listings, orders, collections, and settlement hooks.",
+    "slug": "solana-nft-staking",
+    "name": "12. Solana NFT staking",
+    "url": "https://t.me/vectoris_corss",
+    "cta": "Request Demo",
+    "description": "NFT / pNFT / cNFT stake, rewards, unstake.",
     "images": ["projects/web3/polymarket.png"]
-  },
-  {
-    "slug": "nft-marketplace-eth",
-    "name": "10. NFT marketplace (ETH)",
-    "url": "https://github.com/vectorix-cross/NFT-Marketplace-ETH",
-    "cta": "View GitHub Repo",
-    "description": "Ethereum listings, bids, and settlement contracts.",
-    "images": ["projects/web3/polymarket.png"]
-  },
-  {
-    "slug": "coinbase-x402",
-    "name": "11. Coinbase x402",
-    "url": "https://github.com/vectorix-cross/Coinbase-x402",
-    "cta": "View GitHub Repo",
-    "description": "HTTP 402 micropayments: challenge, payment, access grant.",
-    "images": ["covers/web3-hero.png"]
-  },
-  {
-    "slug": "node-blockchain",
-    "name": "12. Node blockchain",
-    "url": "https://github.com/vectorix-cross/node-blockchain",
-    "cta": "View GitHub Repo",
-    "description": "TypeScript chain: signed txs, Merkle roots, PoW, CLI, tests.",
-    "images": ["covers/bot-hero.png"]
   }
 ]
