@@ -36,13 +36,13 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 <h3 align="center">02. Polymarket desk</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#polymarket-desk">
-    <img src="./portfolio/polymarket-desk.png" width="100%" height="400" alt="Polymarket desk" />
+    <img src="./portfolio/polymarket-desk.jpg" width="100%" height="400" alt="Polymarket desk" />
   </a>
 </div>
 <p align="center">Operator terminal for Polymarket: 24h movers, live tape, consensus screens, watchlists, and intent-only tickets. No custody, no wallet keys.</p>
 <p align="center"><strong>Portfolio category:</strong> Market intelligence / Trading desk</p>
 <p align="center"><code>Python</code> <code>Polymarket</code> <code>Live tape</code> <code>Watchlists</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/polymarket-desk">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center"><a href="https://polymarket-desk-seven.vercel.app">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
 </td>
 </tr>
 <tr>
@@ -50,13 +50,13 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 <h3 align="center">03. Polymarket dashboard</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#polymarket-dashboard">
-    <img src="./portfolio/polymarket-dashboard.png" width="100%" height="400" alt="Polymarket dashboard" />
+    <img src="./portfolio/polymarket-dashboard.jpg" width="100%" height="400" alt="Polymarket dashboard" />
   </a>
 </div>
 <p align="center">Gamma analytics: volume, liquidity, categories, watchlist, and price alerts. React / TypeScript desk for scanning prediction markets.</p>
 <p align="center"><strong>Portfolio category:</strong> Analytics dashboard / Full-stack</p>
 <p align="center"><code>React</code> <code>TypeScript</code> <code>Express</code> <code>Polymarket Gamma</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/PolyMarketDashboard">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center"><a href="https://polymarketanalytics.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">04. AlexBET Lite</h3>
@@ -68,7 +68,7 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 <p align="center">Sports betting signal tracker: line movement, +EV scans, bankroll notes, multi-sport boards. Same desk mindset as the Polymarket work.</p>
 <p align="center"><strong>Portfolio category:</strong> Betting / Market signals</p>
 <p align="center"><code>JavaScript</code> <code>Odds API</code> <code>Betting</code> <code>Line movement</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/alexbet-lite">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center"><a href="https://alexbetlite.oddsifylabs.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
 </td>
 </tr>
 <tr>

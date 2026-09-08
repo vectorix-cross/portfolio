@@ -17,26 +17,47 @@
   {
     "slug": "polymarket-desk",
     "name": "02. Polymarket desk",
-    "url": "https://github.com/vectorix-cross/polymarket-desk",
-    "cta": "View GitHub Repo",
+    "url": "https://polymarket-desk-seven.vercel.app",
+    "cta": "View Live Site",
     "description": "Operator terminal: movers, live tape, watchlists, consensus screens, intent-only tickets.",
-    "images": ["covers/desk.png", "projects/desk/mobile.png"]
+    "images": [
+      "projects/desk-live/01.jpg",
+      "projects/desk-live/02.jpg",
+      "projects/desk-live/03.jpg",
+      "projects/desk-live/04.jpg",
+      "projects/desk-live/05.jpg"
+    ]
   },
   {
     "slug": "polymarket-dashboard",
     "name": "03. Polymarket dashboard",
-    "url": "https://github.com/vectorix-cross/PolyMarketDashboard",
-    "cta": "View GitHub Repo",
+    "url": "https://polymarketanalytics.com/",
+    "cta": "View Live Site",
     "description": "Gamma analytics: volume, liquidity, categories, watchlist, and price alerts.",
-    "images": ["covers/bot-hero.png", "projects/bot/dashboard.png"]
+    "images": [
+      "projects/dashboard/01.jpg",
+      "projects/dashboard/02.jpg",
+      "projects/dashboard/03.jpg",
+      "projects/dashboard/04.jpg",
+      "projects/dashboard/05.jpg",
+      "projects/dashboard/06.jpg"
+    ]
   },
   {
     "slug": "alexbet-lite",
     "name": "04. AlexBET Lite",
-    "url": "https://github.com/vectorix-cross/alexbet-lite",
-    "cta": "View GitHub Repo",
+    "url": "https://alexbetlite.oddsifylabs.com/",
+    "cta": "View Live Site",
     "description": "Sports betting tracker: line moves, +EV scans, bankroll notes.",
-    "images": ["covers/strat-2026.jpg", "projects/strat/flow.jpg"]
+    "images": [
+      "projects/alexbet/01.jpg",
+      "projects/alexbet/02.jpg",
+      "projects/alexbet/03.jpg",
+      "projects/alexbet/04.jpg",
+      "projects/alexbet/05.jpg",
+      "projects/alexbet/06.jpg",
+      "projects/alexbet/07.jpg"
+    ]
   },
   {
     "slug": "strategy-boards",
