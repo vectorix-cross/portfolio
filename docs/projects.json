@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "polymarket-trading-bot",
+    "name": "01. Polymarket trading bot",
+    "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
+    "cta": "View GitHub Repo",
+    "description": "Flagship Polymarket trading bot: Gamma discovery, live CLOB books, strategies, whale tracker, paper execution.",
+    "images": [
+      "covers/bot-hero.png",
+      "projects/bot/dashboard.png",
+      "projects/bot/pnl.png",
+      "projects/bot/positions.png",
+      "projects/bot/momentum.png",
+      "projects/bot/twap.png"
+    ]
+  },
+  {
+    "slug": "polymarket-desk",
+    "name": "02. Polymarket desk",
+    "url": "https://github.com/vectorix-cross/polymarket-desk",
+    "cta": "View GitHub Repo",
+    "description": "Operator terminal for Polymarket: movers, live tape, watchlists, consensus screens, intent-only tickets.",
+    "images": [
+      "covers/desk.png",
+      "projects/desk/mobile.png"
+    ]
+  },
+  {
+    "slug": "strategy-boards",
+    "name": "03. Strategy boards",
+    "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
+    "cta": "View Strategy Catalog",
+    "description": "Research boards: cascade trailing, late-window, blackout confirmation, Binance flow, latency arb.",
+    "images": [
+      "covers/strat-2026.jpg",
+      "projects/strat/cascade.jpg",
+      "projects/strat/flow.jpg",
+      "projects/strat/blackout.jpg",
+      "projects/strat/latency.jpg",
+      "projects/strat/hft.jpg"
+    ]
+  },
+  {
+    "slug": "web3-token-launch",
+    "name": "04. Web3 & token launch",
+    "url": "https://github.com/vectorix-cross/My-web3-projects",
+    "cta": "View Web3 Catalog",
+    "description": "Solana trading bots, Pump.fun launchpads, memecoin pools, and on-chain automation catalog.",
+    "images": [
+      "covers/web3-hero.png",
+      "projects/web3/bots.png",
+      "projects/web3/pump.png",
+      "projects/web3/polymarket.png"
+    ]
+  },
+  {
+    "slug": "snipers-mm",
+    "name": "05. Snipers & market making",
+    "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
+    "cta": "View Bot Catalog",
+    "description": "End-cycle sniper, TWAP winning-token, 101-cent maker, ladder and stair exits on 5-minute crypto markets.",
+    "images": [
+      "covers/endcycle.png",
+      "projects/bots/sniper1.png",
+      "projects/bots/sniper2.png",
+      "projects/bots/arb101.png",
+      "projects/bots/ladder.png",
+      "projects/bots/stair.png"
+    ]
+  },
+  {
+    "slug": "crossyield",
+    "name": "06. CrossYield",
+    "url": "https://github.com/vectorix-cross/CrossYield",
+    "cta": "View GitHub Repo",
+    "description": "Cross-chain RWA path: Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.",
+    "images": [
+      "covers/web3-hero.png"
+    ]
+  }
+]
