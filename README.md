@@ -82,7 +82,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center">Bonding-curve launchpad program: virtual LP, swap, fee split, vesting, and Raydium AMM/CPMM migrate. Devnet txs on Solscan.</p>
 <p align="center"><strong>Portfolio category:</strong> Token launch / Solana program</p>
 <p align="center"><code>Rust</code> <code>Anchor</code> <code>Pump.fun</code> <code>Raydium</code></p>
-<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Solana-Pumpfun-Smart-Contract">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">06. Pump.fun frontend</h3>
@@ -94,7 +94,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center">Launch UI: wallet connect, IPFS metadata, create-coin, swap, TradingView chart, holders, and chat.</p>
 <p align="center"><strong>Portfolio category:</strong> Token launch / Full-stack Web3</p>
 <p align="center"><code>Next.js</code> <code>Solana</code> <code>Wallet adapter</code> <code>Charts</code></p>
-<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Pumpfun-Frontend">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center">Indexer and API: program events, coin routes, chart candles, auth, sockets, Raydium pool create.</p>
 <p align="center"><strong>Portfolio category:</strong> Backend / Token launch</p>
 <p align="center"><code>TypeScript</code> <code>Sockets</code> <code>Indexer</code> <code>Mongo</code></p>
-<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Pumpfun-Backend">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">08. Solana arbitrage bot</h3>
@@ -120,7 +120,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center">Rust off-chain scanner plus on-chain swap program. Sizes the route across Serum, Orca, Saber, Aldrin, Mercurial.</p>
 <p align="center"><strong>Portfolio category:</strong> Crypto trading bot / DeFi</p>
 <p align="center"><code>Rust</code> <code>Solana</code> <code>Arbitrage</code> <code>AMM</code></p>
-<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Solana-arbitrage-bot">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center">Anchor presale: sale windows, allocation tickets, price config, claim path for SPL tokens.</p>
 <p align="center"><strong>Portfolio category:</strong> Token sale / Smart contract</p>
 <p align="center"><code>Rust</code> <code>Anchor</code> <code>Presale</code> <code>SPL</code></p>
-<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Solana-Presale-Smart-contract">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center">Stake NFT, pNFT, and cNFT collections: lock, emit rewards, unstake. Built for collection launches that need a farm.</p>
 <p align="center"><strong>Portfolio category:</strong> NFT / Solana program</p>
 <p align="center"><code>Rust</code> <code>Solana</code> <code>NFT</code> <code>Staking</code></p>
-<p align="center"><a href="https://t.me/vectoris_corss">🔗 <strong>REQUEST DEMO</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/solana-nft-staking">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 </tr>
 </table>

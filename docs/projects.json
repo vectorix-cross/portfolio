@@ -67,32 +67,32 @@
   {
     "slug": "pumpfun-contract",
     "name": "05. Pump.fun smart contract",
-    "url": "https://t.me/vectoris_corss",
-    "cta": "Request Demo",
+    "url": "https://github.com/vectorix-cross/Solana-Pumpfun-Smart-Contract",
+    "cta": "View Project",
     "description": "Bonding curve, virtual LP, fees, vesting, Raydium migrate.",
     "images": ["projects/web3/pump.png", "covers/web3-hero.png"]
   },
   {
     "slug": "pumpfun-frontend",
     "name": "06. Pump.fun frontend",
-    "url": "https://t.me/vectoris_corss",
-    "cta": "Request Demo",
+    "url": "https://github.com/vectorix-cross/Pumpfun-Frontend",
+    "cta": "View Project",
     "description": "Wallet, IPFS, create-coin, swap, TradingView, holders.",
     "images": ["covers/web3-hero.png", "projects/web3/pump.png"]
   },
   {
     "slug": "pumpfun-backend",
     "name": "07. Pump.fun backend",
-    "url": "https://t.me/vectoris_corss",
-    "cta": "Request Demo",
+    "url": "https://github.com/vectorix-cross/Pumpfun-Backend",
+    "cta": "View Project",
     "description": "Events, coin API, charts, auth, sockets, Raydium pool create.",
     "images": ["projects/web3/pump.png"]
   },
   {
     "slug": "solana-arbitrage",
     "name": "08. Solana arbitrage bot",
-    "url": "https://t.me/vectoris_corss",
-    "cta": "Request Demo",
+    "url": "https://github.com/vectorix-cross/Solana-arbitrage-bot",
+    "cta": "View Project",
     "description": "Route scan and on-chain swap across Solana AMM pools.",
     "images": ["projects/web3/bots.png"]
   },
@@ -107,8 +107,8 @@
   {
     "slug": "solana-presale",
     "name": "10. Solana presale",
-    "url": "https://t.me/vectoris_corss",
-    "cta": "Request Demo",
+    "url": "https://github.com/vectorix-cross/Solana-Presale-Smart-contract",
+    "cta": "View Project",
     "description": "Sale windows, allocation tickets, SPL claim path.",
     "images": ["projects/web3/pump.png"]
   },
@@ -128,8 +128,8 @@
   {
     "slug": "solana-nft-staking",
     "name": "12. Solana NFT staking",
-    "url": "https://t.me/vectoris_corss",
-    "cta": "Request Demo",
+    "url": "https://github.com/vectorix-cross/solana-nft-staking",
+    "cta": "View Project",
     "description": "NFT / pNFT / cNFT stake, rewards, unstake.",
     "images": ["projects/web3/polymarket.png"]
   }
