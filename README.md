@@ -27,7 +27,7 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
     <img src="./portfolio/polymarket-bot.png" width="100%" height="400" alt="Polymarket trading bot" />
   </a>
 </div>
-<p align="center">Flagship Polymarket trading bot. Gamma discovery, live CLOB books, probability vs quote, eight TypeScript strategies, whale tracker, paper fills, and hard risk caps.</p>
+<p align="center">Flagship Polymarket trading bot. Gamma discovery, live CLOB books, strategy boards (cascade, flow, late-window), snipers and market-making, whale tracker, paper fills, and hard risk caps.</p>
 <p align="center"><strong>Portfolio category:</strong> Prediction markets / Automated trading</p>
 <p align="center"><code>TypeScript</code> <code>Python</code> <code>Polymarket CLOB</code> <code>Trading bot</code> <code>Risk engine</code></p>
 <p align="center"><a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python">🔗 <strong>VIEW PROJECT</strong></a></p>
@@ -73,45 +73,7 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">05. Strategy boards</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#strategy-boards">
-    <img src="./portfolio/strategy-boards.jpg" width="100%" height="400" alt="Polymarket strategy boards" />
-  </a>
-</div>
-<p align="center">Research line for 5- and 15-minute crypto markets: cascade trailing, late-window, blackout confirmation, Binance taker flow, oracle lag.</p>
-<p align="center"><strong>Portfolio category:</strong> Quant research / Prediction markets</p>
-<p align="center"><code>EV</code> <code>Order flow</code> <code>Latency</code> <code>Risk</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">06. Snipers &amp; market making</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#snipers-mm">
-    <img src="./portfolio/snipers-mm.png" width="100%" height="400" alt="Polymarket snipers and market making" />
-  </a>
-</div>
-<p align="center">End-cycle sniper, TWAP winning-token, 101-cent maker, ladder and stair exits on short-interval YES/NO books.</p>
-<p align="center"><strong>Portfolio category:</strong> Market making / Microstructure</p>
-<p align="center"><code>CLOB</code> <code>TWAP</code> <code>Market making</code> <code>5-minute markets</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">07. Web3 &amp; token launch</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#web3-token-launch">
-    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Web3 token launch catalog" />
-  </a>
-</div>
-<p align="center">Catalog of Solana trading bots, Pump.fun launchpads, memecoin pools, and on-chain automation. Implementation trees stay private; this is the public map.</p>
-<p align="center"><strong>Portfolio category:</strong> Token launch / Memecoin / Pools</p>
-<p align="center"><code>Solana</code> <code>Pump.fun</code> <code>Raydium</code> <code>Token launch</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">08. CrossYield</h3>
+<h3 align="center">05. CrossYield</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#crossyield">
     <img src="./portfolio/crossyield.png" width="100%" height="400" alt="CrossYield RWA vault" />
@@ -122,45 +84,83 @@ Work covers **Polymarket trading bots**, **betting / market desks**, **Solana to
 <p align="center"><code>Solidity</code> <code>Solana</code> <code>Wormhole</code> <code>RWA</code></p>
 <p align="center"><a href="https://github.com/vectorix-cross/CrossYield">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
+<td width="50%" valign="top">
+<h3 align="center">06. Web3 project catalog</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#web3-catalog">
+    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Web3 project catalog" />
+  </a>
+</div>
+<p align="center">Public map of Solana trading bots, Pump.fun launchpads, memecoin pools, and on-chain automation.</p>
+<p align="center"><strong>Portfolio category:</strong> Web3 catalog / Token launch</p>
+<p align="center"><code>Solana</code> <code>Pump.fun</code> <code>Raydium</code> <code>Token launch</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">09. Solana arbitrage bot</h3>
+<h3 align="center">07. Solana arbitrage bot</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-arbitrage">
     <img src="./portfolio/solana-arbitrage.png" width="100%" height="400" alt="Solana DEX arbitrage bot" />
   </a>
 </div>
-<p align="center">DEX route scan on Solana: size the path, estimate fill, execute while the pool still quotes. Private implementation; cataloged under Web3 projects.</p>
+<p align="center">DEX route scan on Solana: size the path, estimate fill, execute while the pool still quotes.</p>
 <p align="center"><strong>Portfolio category:</strong> Crypto trading bot / DeFi</p>
 <p align="center"><code>Rust</code> <code>Solana</code> <code>Arbitrage</code> <code>AMM</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Solana-arbitrage-bot">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">10. Pump.fun launch stack</h3>
+<h3 align="center">08. Solana token launchpad</h3>
 <div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-launch">
-    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun token launch stack" />
+  <a href="https://vectorix-cross.github.io/portfolio/#solana-launchpad">
+    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Solana token launchpad" />
   </a>
 </div>
-<p align="center">Bonding-curve launch: frontend, backend, and Anchor program — create, buy, sell, graduate a mint. Private repos; listed in the Web3 catalog.</p>
+<p align="center">Token launchpad: pool bootstrap, UI, and program integration for Solana mints.</p>
 <p align="center"><strong>Portfolio category:</strong> Token launch / Full-stack Web3</p>
-<p align="center"><code>TypeScript</code> <code>Anchor</code> <code>Pump.fun</code> <code>Bonding curve</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center"><code>TypeScript</code> <code>Solana</code> <code>Launchpad</code> <code>Pools</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/solana-token-launchpad">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">11. NFT marketplace</h3>
+<h3 align="center">09. Marketplace backend</h3>
 <div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#nft-marketplace">
-    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="NFT marketplace stack" />
+  <a href="https://vectorix-cross.github.io/portfolio/#marketplace-backend">
+    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="NFT marketplace backend" />
   </a>
 </div>
-<p align="center">Listings, bids, and settlement — Ethereum marketplace plus TypeScript backend / indexer. Private trees; proof of work on request.</p>
-<p align="center"><strong>Portfolio category:</strong> NFT / Marketplace / Backend</p>
-<p align="center"><code>Solidity</code> <code>TypeScript</code> <code>NFT</code> <code>Orders</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center">Marketplace API: listings, orders, collections, and on-chain settlement hooks.</p>
+<p align="center"><strong>Portfolio category:</strong> Backend / NFT marketplace</p>
+<p align="center"><code>TypeScript</code> <code>API</code> <code>Indexer</code> <code>Orders</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Marketplace_Backend">🔗 <strong>VIEW PROJECT</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">10. NFT marketplace (ETH)</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#nft-marketplace-eth">
+    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Ethereum NFT marketplace" />
+  </a>
+</div>
+<p align="center">Ethereum NFT marketplace: listings, bids, and settlement contracts.</p>
+<p align="center"><strong>Portfolio category:</strong> Solidity / NFT</p>
+<p align="center"><code>Solidity</code> <code>Ethereum</code> <code>NFT</code> <code>Marketplace</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/NFT-Marketplace-ETH">🔗 <strong>VIEW PROJECT</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">11. Coinbase x402</h3>
+<div align="center">
+  <a href="https://vectorix-cross.github.io/portfolio/#coinbase-x402">
+    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Coinbase x402 payments" />
+  </a>
+</div>
+<p align="center">HTTP 402 micropayments: challenge, payment, and access grant on the Coinbase x402 path.</p>
+<p align="center"><strong>Portfolio category:</strong> Payments / Web3 APIs</p>
+<p align="center"><code>JavaScript</code> <code>x402</code> <code>Payments</code> <code>HTTP 402</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/Coinbase-x402">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">12. Node blockchain</h3>

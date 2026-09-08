@@ -4,14 +4,16 @@
     "name": "01. Polymarket trading bot",
     "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
     "cta": "View GitHub Repo",
-    "description": "Flagship Polymarket trading bot: Gamma discovery, live CLOB books, strategies, whale tracker, paper execution.",
+    "description": "CLOB bot plus strategy boards, snipers, and market-making — one repo.",
     "images": [
       "covers/bot-hero.png",
       "projects/bot/dashboard.png",
       "projects/bot/pnl.png",
-      "projects/bot/positions.png",
       "projects/bot/momentum.png",
-      "projects/bot/twap.png"
+      "covers/strat-2026.jpg",
+      "projects/strat/cascade.jpg",
+      "covers/endcycle.png",
+      "projects/bots/sniper1.png"
     ]
   },
   {
@@ -19,7 +21,7 @@
     "name": "02. Polymarket desk",
     "url": "https://polymarket-desk-seven.vercel.app",
     "cta": "View Live Site",
-    "description": "Operator terminal: movers, live tape, watchlists, consensus screens, intent-only tickets.",
+    "description": "Operator terminal: movers, live tape, watchlists, intent-only tickets.",
     "images": [
       "projects/desk-live/01.jpg",
       "projects/desk-live/02.jpg",
@@ -33,7 +35,7 @@
     "name": "03. Polymarket dashboard",
     "url": "https://polymarketanalytics.com/",
     "cta": "View Live Site",
-    "description": "Gamma analytics: volume, liquidity, categories, watchlist, and price alerts.",
+    "description": "Gamma analytics: volume, liquidity, categories, watchlist, alerts.",
     "images": [
       "projects/dashboard/01.jpg",
       "projects/dashboard/02.jpg",
@@ -60,41 +62,19 @@
     ]
   },
   {
-    "slug": "strategy-boards",
-    "name": "05. Strategy boards",
-    "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
-    "cta": "View Strategy Catalog",
-    "description": "Cascade trailing, late-window, blackout, Binance flow, latency arb.",
-    "images": [
-      "covers/strat-2026.jpg",
-      "projects/strat/cascade.jpg",
-      "projects/strat/flow.jpg",
-      "projects/strat/blackout.jpg",
-      "projects/strat/latency.jpg",
-      "projects/strat/hft.jpg"
-    ]
+    "slug": "crossyield",
+    "name": "05. CrossYield",
+    "url": "https://github.com/vectorix-cross/CrossYield",
+    "cta": "View GitHub Repo",
+    "description": "Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.",
+    "images": ["covers/web3-hero.png"]
   },
   {
-    "slug": "snipers-mm",
-    "name": "06. Snipers & market making",
-    "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
-    "cta": "View Bot Catalog",
-    "description": "End-cycle sniper, TWAP token, 101-cent maker, ladder and stair exits.",
-    "images": [
-      "covers/endcycle.png",
-      "projects/bots/sniper1.png",
-      "projects/bots/sniper2.png",
-      "projects/bots/arb101.png",
-      "projects/bots/ladder.png",
-      "projects/bots/stair.png"
-    ]
-  },
-  {
-    "slug": "web3-token-launch",
-    "name": "07. Web3 & token launch",
+    "slug": "web3-catalog",
+    "name": "06. Web3 project catalog",
     "url": "https://github.com/vectorix-cross/My-web3-projects",
-    "cta": "View Web3 Catalog",
-    "description": "Solana trading bots, Pump.fun launchpads, memecoin pools, on-chain automation.",
+    "cta": "View GitHub Repo",
+    "description": "Public map of Solana bots, launchpads, and on-chain automation.",
     "images": [
       "covers/web3-hero.png",
       "projects/web3/bots.png",
@@ -103,36 +83,44 @@
     ]
   },
   {
-    "slug": "crossyield",
-    "name": "08. CrossYield",
-    "url": "https://github.com/vectorix-cross/CrossYield",
-    "cta": "View GitHub Repo",
-    "description": "Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.",
-    "images": ["covers/web3-hero.png"]
-  },
-  {
     "slug": "solana-arbitrage",
-    "name": "09. Solana arbitrage bot",
-    "url": "https://github.com/vectorix-cross/My-web3-projects",
-    "cta": "View Web3 Catalog",
+    "name": "07. Solana arbitrage bot",
+    "url": "https://github.com/vectorix-cross/Solana-arbitrage-bot",
+    "cta": "View GitHub Repo",
     "description": "DEX route scan and fill logic across Solana AMM pools.",
-    "images": ["projects/web3/bots.png", "covers/web3-hero.png"]
+    "images": ["projects/web3/bots.png"]
   },
   {
-    "slug": "pumpfun-launch",
-    "name": "10. Pump.fun launch stack",
-    "url": "https://github.com/vectorix-cross/My-web3-projects",
-    "cta": "View Web3 Catalog",
-    "description": "Bonding-curve frontend, backend, and Anchor program.",
-    "images": ["projects/web3/pump.png", "covers/web3-hero.png"]
+    "slug": "solana-launchpad",
+    "name": "08. Solana token launchpad",
+    "url": "https://github.com/vectorix-cross/solana-token-launchpad",
+    "cta": "View GitHub Repo",
+    "description": "Pool bootstrap, launch UI, and program integration.",
+    "images": ["projects/web3/pump.png"]
   },
   {
-    "slug": "nft-marketplace",
-    "name": "11. NFT marketplace",
-    "url": "https://github.com/vectorix-cross/My-web3-projects",
-    "cta": "View Web3 Catalog",
-    "description": "Ethereum listings and TypeScript marketplace API / indexer.",
-    "images": ["projects/web3/polymarket.png", "covers/web3-hero.png"]
+    "slug": "marketplace-backend",
+    "name": "09. Marketplace backend",
+    "url": "https://github.com/vectorix-cross/Marketplace_Backend",
+    "cta": "View GitHub Repo",
+    "description": "Listings, orders, collections, and settlement hooks.",
+    "images": ["projects/web3/polymarket.png"]
+  },
+  {
+    "slug": "nft-marketplace-eth",
+    "name": "10. NFT marketplace (ETH)",
+    "url": "https://github.com/vectorix-cross/NFT-Marketplace-ETH",
+    "cta": "View GitHub Repo",
+    "description": "Ethereum listings, bids, and settlement contracts.",
+    "images": ["projects/web3/polymarket.png"]
+  },
+  {
+    "slug": "coinbase-x402",
+    "name": "11. Coinbase x402",
+    "url": "https://github.com/vectorix-cross/Coinbase-x402",
+    "cta": "View GitHub Repo",
+    "description": "HTTP 402 micropayments: challenge, payment, access grant.",
+    "images": ["covers/web3-hero.png"]
   },
   {
     "slug": "node-blockchain",
