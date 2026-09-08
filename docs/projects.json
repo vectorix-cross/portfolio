@@ -65,32 +65,16 @@
     ]
   },
   {
-    "slug": "pumpfun-contract",
-    "name": "05. Pump.fun smart contract",
-    "url": "https://github.com/vectorix-cross/Solana-Pumpfun-Smart-Contract",
+    "slug": "pumpfun-launchpad",
+    "name": "05. Pump.fun launchpad",
+    "url": "https://github.com/vectorix-cross/My-Pumpfun",
     "cta": "View Project",
-    "description": "Bonding curve, virtual LP, fees, vesting, Raydium migrate.",
+    "description": "Contract, frontend, and backend in one repo — curve, launch UI, indexer.",
     "images": ["projects/web3/pump.png", "covers/web3-hero.png"]
   },
   {
-    "slug": "pumpfun-frontend",
-    "name": "06. Pump.fun frontend",
-    "url": "https://github.com/vectorix-cross/Pumpfun-Frontend",
-    "cta": "View Project",
-    "description": "Wallet, IPFS, create-coin, swap, TradingView, holders.",
-    "images": ["covers/web3-hero.png", "projects/web3/pump.png"]
-  },
-  {
-    "slug": "pumpfun-backend",
-    "name": "07. Pump.fun backend",
-    "url": "https://github.com/vectorix-cross/Pumpfun-Backend",
-    "cta": "View Project",
-    "description": "Events, coin API, charts, auth, sockets, Raydium pool create.",
-    "images": ["projects/web3/pump.png"]
-  },
-  {
     "slug": "solana-arbitrage",
-    "name": "08. Solana arbitrage bot",
+    "name": "06. Solana arbitrage bot",
     "url": "https://github.com/vectorix-cross/Solana-arbitrage-bot",
     "cta": "View Project",
     "description": "Route scan and on-chain swap across Solana AMM pools.",
@@ -98,7 +82,7 @@
   },
   {
     "slug": "crossyield",
-    "name": "09. CrossYield",
+    "name": "07. CrossYield",
     "url": "https://github.com/vectorix-cross/CrossYield",
     "cta": "View GitHub Repo",
     "description": "Ethereum deposit, Wormhole VAA, Solana vault shares, harvest.",
@@ -106,7 +90,7 @@
   },
   {
     "slug": "solana-presale",
-    "name": "10. Solana presale",
+    "name": "08. Solana presale",
     "url": "https://github.com/vectorix-cross/Solana-Presale-Smart-contract",
     "cta": "View Project",
     "description": "Sale windows, allocation tickets, SPL claim path.",
@@ -114,7 +98,7 @@
   },
   {
     "slug": "web3-catalog",
-    "name": "11. Web3 project catalog",
+    "name": "09. Web3 project catalog",
     "url": "https://github.com/vectorix-cross/My-web3-projects",
     "cta": "View GitHub Repo",
     "description": "Public map of bots, launchpads, and on-chain automation.",
@@ -127,7 +111,7 @@
   },
   {
     "slug": "solana-nft-staking",
-    "name": "12. Solana NFT staking",
+    "name": "10. Solana NFT staking",
     "url": "https://github.com/vectorix-cross/solana-nft-staking",
     "cta": "View Project",
     "description": "NFT / pNFT / cNFT stake, rewards, unstake.",

@@ -73,45 +73,19 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">05. Pump.fun smart contract</h3>
+<h3 align="center">05. Pump.fun launchpad</h3>
 <div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-contract">
-    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun Solana smart contract" />
+  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-launchpad">
+    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun launchpad" />
   </a>
 </div>
-<p align="center">Bonding-curve launchpad program: virtual LP, swap, fee split, vesting, and Raydium AMM/CPMM migrate. Devnet txs on Solscan.</p>
-<p align="center"><strong>Portfolio category:</strong> Token launch / Solana program</p>
-<p align="center"><code>Rust</code> <code>Anchor</code> <code>Pump.fun</code> <code>Raydium</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/Solana-Pumpfun-Smart-Contract">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">06. Pump.fun frontend</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-frontend">
-    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Pump.fun launchpad frontend" />
-  </a>
-</div>
-<p align="center">Launch UI: wallet connect, IPFS metadata, create-coin, swap, TradingView chart, holders, and chat.</p>
+<p align="center">One repo: Anchor bonding-curve program, Next.js launch UI, and indexer API. Virtual LP, swap, fees, vesting, Raydium AMM/CPMM migrate.</p>
 <p align="center"><strong>Portfolio category:</strong> Token launch / Full-stack Web3</p>
-<p align="center"><code>Next.js</code> <code>Solana</code> <code>Wallet adapter</code> <code>Charts</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/Pumpfun-Frontend">🔗 <strong>VIEW PROJECT</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">07. Pump.fun backend</h3>
-<div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-backend">
-    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun launchpad backend" />
-  </a>
-</div>
-<p align="center">Indexer and API: program events, coin routes, chart candles, auth, sockets, Raydium pool create.</p>
-<p align="center"><strong>Portfolio category:</strong> Backend / Token launch</p>
-<p align="center"><code>TypeScript</code> <code>Sockets</code> <code>Indexer</code> <code>Mongo</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/Pumpfun-Backend">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center"><code>Rust</code> <code>Anchor</code> <code>Next.js</code> <code>Pump.fun</code> <code>Raydium</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/My-Pumpfun">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">08. Solana arbitrage bot</h3>
+<h3 align="center">06. Solana arbitrage bot</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-arbitrage">
     <img src="./portfolio/solana-arbitrage.png" width="100%" height="400" alt="Solana DEX arbitrage bot" />
@@ -125,7 +99,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">09. CrossYield</h3>
+<h3 align="center">07. CrossYield</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#crossyield">
     <img src="./portfolio/crossyield.png" width="100%" height="400" alt="CrossYield RWA vault" />
@@ -137,7 +111,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center"><a href="https://github.com/vectorix-cross/CrossYield">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">10. Solana presale</h3>
+<h3 align="center">08. Solana presale</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-presale">
     <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Solana presale smart contract" />
@@ -151,7 +125,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">11. Web3 project catalog</h3>
+<h3 align="center">09. Web3 project catalog</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#web3-catalog">
     <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Web3 project catalog" />
@@ -163,7 +137,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">12. Solana NFT staking</h3>
+<h3 align="center">10. Solana NFT staking</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-nft-staking">
     <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Solana NFT staking" />
