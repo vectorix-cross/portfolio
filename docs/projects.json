@@ -23,6 +23,7 @@
     "cta": "View Live Site",
     "description": "Operator terminal: movers, live tape, watchlists, intent-only tickets.",
     "images": [
+      "covers/operator-terminal.jpg",
       "projects/desk-live/01.jpg",
       "projects/desk-live/02.jpg",
       "projects/desk-live/03.jpg",
@@ -37,6 +38,7 @@
     "cta": "View Live Site",
     "description": "Gamma analytics: volume, liquidity, categories, watchlist, alerts.",
     "images": [
+      "covers/gamma-analytics.jpg",
       "projects/dashboard/01.jpg",
       "projects/dashboard/02.jpg",
       "projects/dashboard/03.jpg",
@@ -52,6 +54,7 @@
     "cta": "View Live Site",
     "description": "Sports betting tracker: line moves, +EV scans, bankroll notes.",
     "images": [
+      "covers/sportsbet-tracker.jpg",
       "projects/alexbet/01.jpg",
       "projects/alexbet/02.jpg",
       "projects/alexbet/03.jpg",
