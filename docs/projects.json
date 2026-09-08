@@ -19,18 +19,31 @@
     "name": "02. Polymarket desk",
     "url": "https://github.com/vectorix-cross/polymarket-desk",
     "cta": "View GitHub Repo",
-    "description": "Operator terminal for Polymarket: movers, live tape, watchlists, consensus screens, intent-only tickets.",
-    "images": [
-      "covers/desk.png",
-      "projects/desk/mobile.png"
-    ]
+    "description": "Operator terminal: movers, live tape, watchlists, consensus screens, intent-only tickets.",
+    "images": ["covers/desk.png", "projects/desk/mobile.png"]
+  },
+  {
+    "slug": "polymarket-dashboard",
+    "name": "03. Polymarket dashboard",
+    "url": "https://github.com/vectorix-cross/PolyMarketDashboard",
+    "cta": "View GitHub Repo",
+    "description": "Gamma analytics: volume, liquidity, categories, watchlist, and price alerts.",
+    "images": ["covers/bot-hero.png", "projects/bot/dashboard.png"]
+  },
+  {
+    "slug": "alexbet-lite",
+    "name": "04. AlexBET Lite",
+    "url": "https://github.com/vectorix-cross/alexbet-lite",
+    "cta": "View GitHub Repo",
+    "description": "Sports betting tracker: line moves, +EV scans, bankroll notes.",
+    "images": ["covers/strat-2026.jpg", "projects/strat/flow.jpg"]
   },
   {
     "slug": "strategy-boards",
-    "name": "03. Strategy boards",
+    "name": "05. Strategy boards",
     "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
     "cta": "View Strategy Catalog",
-    "description": "Research boards: cascade trailing, late-window, blackout confirmation, Binance flow, latency arb.",
+    "description": "Cascade trailing, late-window, blackout, Binance flow, latency arb.",
     "images": [
       "covers/strat-2026.jpg",
       "projects/strat/cascade.jpg",
@@ -41,24 +54,11 @@
     ]
   },
   {
-    "slug": "web3-token-launch",
-    "name": "04. Web3 & token launch",
-    "url": "https://github.com/vectorix-cross/My-web3-projects",
-    "cta": "View Web3 Catalog",
-    "description": "Solana trading bots, Pump.fun launchpads, memecoin pools, and on-chain automation catalog.",
-    "images": [
-      "covers/web3-hero.png",
-      "projects/web3/bots.png",
-      "projects/web3/pump.png",
-      "projects/web3/polymarket.png"
-    ]
-  },
-  {
     "slug": "snipers-mm",
-    "name": "05. Snipers & market making",
+    "name": "06. Snipers & market making",
     "url": "https://github.com/vectorix-cross/My-Polymarket-trading-bot-python",
     "cta": "View Bot Catalog",
-    "description": "End-cycle sniper, TWAP winning-token, 101-cent maker, ladder and stair exits on 5-minute crypto markets.",
+    "description": "End-cycle sniper, TWAP token, 101-cent maker, ladder and stair exits.",
     "images": [
       "covers/endcycle.png",
       "projects/bots/sniper1.png",
@@ -69,13 +69,56 @@
     ]
   },
   {
+    "slug": "web3-token-launch",
+    "name": "07. Web3 & token launch",
+    "url": "https://github.com/vectorix-cross/My-web3-projects",
+    "cta": "View Web3 Catalog",
+    "description": "Solana trading bots, Pump.fun launchpads, memecoin pools, on-chain automation.",
+    "images": [
+      "covers/web3-hero.png",
+      "projects/web3/bots.png",
+      "projects/web3/pump.png",
+      "projects/web3/polymarket.png"
+    ]
+  },
+  {
     "slug": "crossyield",
-    "name": "06. CrossYield",
+    "name": "08. CrossYield",
     "url": "https://github.com/vectorix-cross/CrossYield",
     "cta": "View GitHub Repo",
-    "description": "Cross-chain RWA path: Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.",
-    "images": [
-      "covers/web3-hero.png"
-    ]
+    "description": "Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.",
+    "images": ["covers/web3-hero.png"]
+  },
+  {
+    "slug": "solana-arbitrage",
+    "name": "09. Solana arbitrage bot",
+    "url": "https://github.com/vectorix-cross/My-web3-projects",
+    "cta": "View Web3 Catalog",
+    "description": "DEX route scan and fill logic across Solana AMM pools.",
+    "images": ["projects/web3/bots.png", "covers/web3-hero.png"]
+  },
+  {
+    "slug": "pumpfun-launch",
+    "name": "10. Pump.fun launch stack",
+    "url": "https://github.com/vectorix-cross/My-web3-projects",
+    "cta": "View Web3 Catalog",
+    "description": "Bonding-curve frontend, backend, and Anchor program.",
+    "images": ["projects/web3/pump.png", "covers/web3-hero.png"]
+  },
+  {
+    "slug": "nft-marketplace",
+    "name": "11. NFT marketplace",
+    "url": "https://github.com/vectorix-cross/My-web3-projects",
+    "cta": "View Web3 Catalog",
+    "description": "Ethereum listings and TypeScript marketplace API / indexer.",
+    "images": ["projects/web3/polymarket.png", "covers/web3-hero.png"]
+  },
+  {
+    "slug": "node-blockchain",
+    "name": "12. Node blockchain",
+    "url": "https://github.com/vectorix-cross/node-blockchain",
+    "cta": "View GitHub Repo",
+    "description": "TypeScript chain: signed txs, Merkle roots, PoW, CLI, tests.",
+    "images": ["covers/bot-hero.png"]
   }
 ]
