@@ -97,11 +97,11 @@
     "images": ["projects/web3/pump.png"]
   },
   {
-    "slug": "web3-catalog",
-    "name": "09. Web3 project catalog",
-    "url": "https://github.com/vectorix-cross/My-web3-projects",
-    "cta": "View GitHub Repo",
-    "description": "Public map of bots, launchpads, and on-chain automation.",
+    "slug": "solana-trading-bots",
+    "name": "09. Solana trading bots",
+    "url": "https://github.com/vectorix-cross/My-solana-trading-bots",
+    "cta": "View Project",
+    "description": "Bundler, sniper, copy-trade, maker — plus public arb bot.",
     "images": [
       "covers/web3-hero.png",
       "projects/web3/bots.png",

@@ -125,16 +125,16 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">09. Web3 project catalog</h3>
+<h3 align="center">09. Solana trading bots</h3>
 <div align="center">
-  <a href="https://vectorix-cross.github.io/portfolio/#web3-catalog">
-    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Web3 project catalog" />
+  <a href="https://vectorix-cross.github.io/portfolio/#solana-trading-bots">
+    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Solana trading bots" />
   </a>
 </div>
-<p align="center">Public map of Solana bots, launchpads, vesting, NFT staking, and on-chain automation. Message for proof of work.</p>
-<p align="center"><strong>Portfolio category:</strong> Web3 catalog / Token launch</p>
-<p align="center"><code>Solana</code> <code>Pump.fun</code> <code>Raydium</code> <code>Token launch</code></p>
-<p align="center"><a href="https://github.com/vectorix-cross/My-web3-projects">🔗 <strong>VIEW PROJECT</strong></a></p>
+<p align="center">Bundlers, snipers, copy-trade, and makers on Raydium, Pump.fun, and Meteora. Public arb bot plus the rest of the family map.</p>
+<p align="center"><strong>Portfolio category:</strong> Crypto trading bots / Solana</p>
+<p align="center"><code>Solana</code> <code>Raydium</code> <code>Pump.fun</code> <code>Meteora</code></p>
+<p align="center"><a href="https://github.com/vectorix-cross/My-solana-trading-bots">🔗 <strong>VIEW PROJECT</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">10. Solana NFT staking</h3>
