@@ -76,7 +76,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">05. Pump.fun launchpad</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#pumpfun-launchpad">
-    <img src="./portfolio/pumpfun-launch.png" width="100%" height="400" alt="Pump.fun launchpad" />
+    <img src="./portfolio/pumpfun-launch.jpg" width="100%" height="400" alt="Pump.fun launchpad" />
   </a>
 </div>
 <p align="center">One repo: Anchor bonding-curve program, Next.js launch UI, and indexer API. Virtual LP, swap, fees, vesting, Raydium AMM/CPMM migrate.</p>
@@ -88,7 +88,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">06. Solana arbitrage bot</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-arbitrage">
-    <img src="./portfolio/solana-arbitrage.png" width="100%" height="400" alt="Solana DEX arbitrage bot" />
+    <img src="./portfolio/solana-arbitrage.jpg" width="100%" height="400" alt="Solana DEX arbitrage bot" />
   </a>
 </div>
 <p align="center">Rust off-chain scanner plus on-chain swap program. Sizes the route across Serum, Orca, Saber, Aldrin, Mercurial.</p>
@@ -102,7 +102,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">07. CrossYield</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#crossyield">
-    <img src="./portfolio/crossyield.png" width="100%" height="400" alt="CrossYield RWA vault" />
+    <img src="./portfolio/crossyield.jpg" width="100%" height="400" alt="CrossYield RWA vault" />
   </a>
 </div>
 <p align="center">Cross-chain RWA path: Ethereum deposit, Wormhole VAA, Solana vault shares, harvest loop.</p>
@@ -114,7 +114,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">08. Solana presale</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-presale">
-    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Solana presale smart contract" />
+    <img src="./portfolio/solana-presale.jpg" width="100%" height="400" alt="Solana presale smart contract" />
   </a>
 </div>
 <p align="center">Anchor presale: sale windows, allocation tickets, price config, claim path for SPL tokens.</p>
@@ -128,7 +128,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">09. Solana trading bots</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-trading-bots">
-    <img src="./portfolio/web3-token-launch.png" width="100%" height="400" alt="Solana trading bots" />
+    <img src="./portfolio/solana-trading-bots.jpg" width="100%" height="400" alt="Solana trading bots" />
   </a>
 </div>
 <p align="center">Bundlers, snipers, copy-trade, and makers on Raydium, Pump.fun, and Meteora. Public arb bot plus the rest of the family map.</p>
@@ -140,7 +140,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">10. Solana NFT staking</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#solana-nft-staking">
-    <img src="./portfolio/nft-marketplace.png" width="100%" height="400" alt="Solana NFT staking" />
+    <img src="./portfolio/solana-nft-staking.jpg" width="100%" height="400" alt="Solana NFT staking" />
   </a>
 </div>
 <p align="center">Stake NFT, pNFT, and cNFT collections: lock, emit rewards, unstake. Built for collection launches that need a farm.</p>
