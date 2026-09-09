@@ -156,6 +156,8 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
   <a href="mailto:vanjasretenovic4@gmail.com">Email</a>
   ·
   <a href="https://t.me/vectoris_corss">Telegram</a>
+  ·
+  <a href="https://discord.com/users/775389898794336316">Discord</a>
 </p>
 
 <p align="center">
