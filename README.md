@@ -24,7 +24,7 @@ Work covers **Polymarket trading bots**, **live betting / market desks**, **Pump
 <h3 align="center">01. Polymarket trading bot</h3>
 <div align="center">
   <a href="https://vectorix-cross.github.io/portfolio/#polymarket-trading-bot">
-    <img src="./portfolio/polymarket-bot.png" width="100%" height="400" alt="Polymarket trading bot" />
+    <img src="./portfolio/polymarket-bot.jpg" width="100%" height="400" alt="Polymarket trading bot" />
   </a>
 </div>
 <p align="center">Flagship Polymarket trading bot. Gamma discovery, live CLOB books, strategy boards (cascade, flow, late-window), snipers and market-making, whale tracker, paper fills, and hard risk caps.</p>

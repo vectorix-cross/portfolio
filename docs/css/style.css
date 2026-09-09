@@ -155,10 +155,6 @@ header p {
   background: #0d1114;
 }
 
-.carousel-slide.is-cover img {
-  object-fit: cover;
-}
-
 .carousel-btn {
   position: absolute;
   top: 50%;

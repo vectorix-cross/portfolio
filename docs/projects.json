@@ -6,8 +6,11 @@
     "cta": "View GitHub Repo",
     "description": "CLOB bot, strategy boards, snipers, and market-making — public paper cut.",
     "images": [
-      "covers/bot-hero.png",
-      "projects/bot/dashboard.png",
+      "covers/bot-cover.jpg",
+      "projects/bot/clob.jpg",
+      "projects/bot/whale.jpg",
+      "projects/bot/strategies.jpg",
+      "projects/bot/risk.jpg",
       "projects/bot/pnl.png",
       "projects/bot/momentum.png",
       "covers/strat-2026.jpg",
