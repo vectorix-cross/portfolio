@@ -3,6 +3,8 @@
 <!-- ========================================================= -->
 
 # My Portfolio
+**Live portfolio:** [https://portfolio.vanjasretenovic4.workers.dev/](https://portfolio.vanjasretenovic4.workers.dev/)
+
 
 Prediction-market automation, crypto trading systems, and token-launch infrastructure. Vectorix (`vectorix-cross`) — Vanja Sretenovic.
 
